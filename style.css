@@ -1,0 +1,42 @@
+body{
+    padding-right: 22%;
+    padding-top: 10%;
+    text-align: center;
+    background-image: url("https://cdn2.vectorstock.com/i/1000x1000/36/26/brown-background-with-the-clock-vector-12433626.jpg");
+}
+
+.heading{
+    display: inline-block;
+    width:100px;
+    color: darkcyan;
+}
+
+.btn{
+    border-radius: 15px;
+    width: 100px;
+    height: 25px;
+    padding-bottom: 30px!important;
+}
+ 
+
+.btn{
+    font-weight: bolder;
+}
+
+.shape{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    text-justify: auto;
+    font-size: xx-large;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkcyan;
+    font-weight: bold;
+}
